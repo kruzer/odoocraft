@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Product list (tree) view in purchase module", 
-    'version': '12.0.0.99.10',
+    'name': "Product list (tree) view in the purchase module", 
+    'version': '12.0.0.99.14',
     'category': 'Purchases',
     'depends': ['purchase','product'],
-    'license': 'LGPL-3',
-    'summary': 'Set list (tree) as a default view for product in Purchase module',
+    'license': 'AGPL-3',
+    'summary': 'Set list (tree) as a default view for product in the Purchase module',
     'description': """
-Changes default view of product to list (tree) in Purchase module
+Changes default view of product to a list (tree) in the Purchase module
 ========================================================================
     """,
     'installable': True,
@@ -16,11 +16,9 @@ Changes default view of product to list (tree) in Purchase module
     
     
     'images': [
-        'images/main_screenshot.png'
+        'images/main_screenshot.png',
         ],
     'data': [
         'views/views.xml',
-    ],
-    'demo': [
     ],
 }
