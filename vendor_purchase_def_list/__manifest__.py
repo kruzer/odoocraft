@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Vendor list (tree) view in the purchase module", 
-    'version': '12.0.0.99.14',
+    'name': "Vendor default list (tree) view in the purchase module", 
+    'version': '12.0.0.99.15',
     'category': 'Purchases',
     'depends': ['purchase'],
     'license': 'AGPL-3',
