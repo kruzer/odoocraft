@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Product list (tree) view in the purchase module", 
-    'version': '12.0.0.99.14',
+    'version': '13.0.0.99.14',
     'category': 'Purchases',
     'depends': ['purchase','product'],
     'license': 'AGPL-3',
