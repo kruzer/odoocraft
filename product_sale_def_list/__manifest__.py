@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Product list (tree) view in the sale module", 
-    'version': '13.0.0.99.14',
+    'version': '14.0.0.99.14',
     'category': 'Sales',
     'depends': ['sale'],
     'license': 'AGPL-3',
